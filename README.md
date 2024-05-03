@@ -39,7 +39,7 @@ Please note that this free offer is subject to change and may be discontinued at
 
 ## Support
 
-If you encounter any issues or have questions about the plugin, please visit our support page at https://dibyajyotikabi.com/support. Our dedicated support team is ready to assist you and provide timely solutions.
+If you encounter any issues or have questions about the plugin, please visit our support page at https://dibyajyotikabi.com/. Our dedicated support team is ready to assist you and provide timely solutions.
 
 Before reaching out for support, please ensure that you have thoroughly reviewed the plugin documentation and frequently asked questions.
 
