@@ -1,3 +1,5 @@
+![CMDU Logo](https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/blob/main/CMDU_Logo.png "CMDU Logo")
+
 # Conditional Modified Date Update (CMDU) WordPress Plugin
 
 The Conditional Modified Date Update (CMDU) plugin is a powerful tool for WordPress users who want granular control over the modified date behavior of their posts. With CMDU, you can easily choose whether to update the modified date when a post is updated, either globally or on a per-post basis.
@@ -27,6 +29,12 @@ Simply download the ZIP file and follow the installation instructions to install
 4. Click on the "Upload Plugin" button.
 5. Choose the plugin ZIP file and click "Install Now".
 6. After the installation is complete, click on the "Activate Plugin" button.
+
+## Screenshots
+
+![Global Settings Screenshot](https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/blob/main/screenshot_global_settings.png "Global Settings Screenshot")
+
+![Per Post Level Settings Screenshot](https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/blob/main/screenshot_per_post_level_settings.png "Per Post Level Settings Screenshot")
 
 ## Usage
 
