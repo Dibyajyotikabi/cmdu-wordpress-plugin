@@ -1,4 +1,4 @@
-![CMDU Logo](https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/blob/main/CMDU_Logo.png "CMDU Logo")
+![CMDU Logo](https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/blob/main/CMDU_Logo_Small_Size.png)
 
 # Conditional Modified Date Update (CMDU) WordPress Plugin
 
