@@ -10,7 +10,6 @@ The Conditional Modified Date Update (CMDU) plugin is a powerful tool for WordPr
 - Lightweight and easy to use
 - Compatible with WordPress 4.0 and above
 - Supports both posts and custom post types
-- Secure license key verification to prevent unauthorized use
 
 ## Installation
 
@@ -20,7 +19,6 @@ The Conditional Modified Date Update (CMDU) plugin is a powerful tool for WordPr
 4. Click on the "Upload Plugin" button.
 5. Choose the plugin ZIP file and click "Install Now".
 6. After the installation is complete, click on the "Activate Plugin" button.
-7. Enter your license key on the plugin's settings page to activate the plugin.
 
 ## Usage
 
@@ -33,19 +31,17 @@ The Conditional Modified Date Update (CMDU) plugin is a powerful tool for WordPr
 
 The plugin will prevent the modified date from being updated based on the per-post setting if the global setting is enabled.
 
-## License
+## Limited Time Free Offer
 
-The Conditional Modified Date Update (CMDU) plugin is a premium WordPress plugin developed by Dibyajyoti Kabi. It is released under the GNU General Public License v2.0 or later.
+For a limited time, we are offering the Conditional Modified Date Update (CMDU) plugin for free! Take advantage of this opportunity to gain control over your post modified dates without any cost.
 
-To use the plugin, you must purchase a valid license key from the official website. Each license key is valid for a single website and provides access to plugin updates and support for one year.
-
-Please note that distributing or sharing the plugin without a valid license is strictly prohibited.
+Please note that this free offer is subject to change and may be discontinued at any time. We reserve the right to modify the terms of this offer or revert to a paid licensing model in the future.
 
 ## Support
 
 If you encounter any issues or have questions about the plugin, please visit our support page at https://dibyajyotikabi.com/support. Our dedicated support team is ready to assist you and provide timely solutions.
 
-Before reaching out for support, please ensure that you have a valid license key and have thoroughly reviewed the plugin documentation and frequently asked questions.
+Before reaching out for support, please ensure that you have thoroughly reviewed the plugin documentation and frequently asked questions.
 
 ## Changelog
 
@@ -53,21 +49,20 @@ Before reaching out for support, please ensure that you have a valid license key
 - Initial release of the Conditional Modified Date Update (CMDU) plugin.
 - Added global setting to enable or disable per-post control.
 - Implemented meta box on the post editing screen for per-post control.
-- Included license key verification system to prevent unauthorized use.
 
 ## Frequently Asked Questions
 
-### How do I obtain a license key?
-To obtain a license key, please visit our official website at https://dibyajyotikabi.com and purchase a license. After completing the purchase, you will receive your license key via email.
+### Is the plugin really free?
+Yes, for a limited time, we are offering the Conditional Modified Date Update (CMDU) plugin for free. Take advantage of this opportunity while it lasts!
 
-### Can I use the plugin on multiple websites?
-Each license key is valid for a single website. If you wish to use the plugin on multiple websites, you need to purchase additional licenses.
+### Are there any hidden costs or limitations?
+No, there are no hidden costs or limitations during the free offer period. You can use the plugin on your website without any restrictions.
 
-### What happens if I don't renew my license?
-If you choose not to renew your license after one year, you will lose access to plugin updates and support. However, the plugin will continue to function on your website with the existing features.
+### How long will the free offer last?
+The free offer is available for a limited time and may be discontinued at any time. We recommend taking advantage of the offer as soon as possible.
 
-### How do I upgrade to a newer version of the plugin?
-To upgrade the plugin, simply download the latest version from our website using your license key and replace the existing plugin files on your WordPress installation. Your settings and data will be preserved during the upgrade process.
+### Will I need to purchase a license in the future?
+It's possible that we may revert to a paid licensing model in the future. However, if you obtain the plugin during the free offer period, you will be able to continue using it on your website without any additional costs.
 
 ### Is the plugin compatible with custom post types?
 Yes, the Conditional Modified Date Update (CMDU) plugin works seamlessly with both posts and custom post types.
