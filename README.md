@@ -8,8 +8,6 @@ The Conditional Modified Date Update (CMDU) plugin is a powerful tool for WordPr
 
 You can download the latest version of the Conditional Modified Date Update (CMDU) plugin from the GitHub repository:
 
-[Download Conditional Modified Date Update (CMDU) v1.5]([https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/raw/main/cmdu-wordpress-plugin-v1.5.zip](https://github.com/Dibyajyotikabi/cmdu-wordpress-plugin/archive/refs/heads/main.zip))
-
 Simply download the ZIP file and follow the installation instructions to install the plugin on your WordPress website.
 
 ## Features
